@@ -1,2 +1,2 @@
-botbot
+A Very Basic Twitter Bot
 ======
